@@ -43,12 +43,15 @@ ________________________________________________________________________________
 Eine Menge A ist **Teilmenge(Untermenge)** einer Menge B, wird so ausgedrückt
 ![A ist Teilmenge von B](https://latex.codecogs.com/gif.latex?A%5Csubseteq%20B)
 
-Wenn A Teilmenge von B ist und B ist Teilmenge von A, dann ist A=B
+- Wenn A Teilmenge von B ist und B ist Teilmenge von A, dann ist A=B
 
 - Zwei Mengen sind **disjunkt**, wenn sie keine gemeinsamen Elemente haben
 
 - Die **Vereinigung** von A und B ![AUB](https://latex.codecogs.com/gif.latex?A%5Ccup%20B) besteht aus allen Elementen von A und B
 
+- **Durchschnitt** ![AOB](https://latex.codecogs.com/gif.latex?A%5Ccap%20B), ist die Menge wo alle Elemente in A un bV sind
+
+- **Differenz** ![A\B](https://latex.codecogs.com/gif.latex?A%20%5Csetminus%20B)
 
 
 
