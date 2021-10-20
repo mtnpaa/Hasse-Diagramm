@@ -26,5 +26,6 @@ Was sind  endliche halbgeordnete Mengen?
 -  Reihenfolge der Elemente ist egal, auch mehrfachnennung ist erlaubt
 -   Unendlichen Zahlenmengen können so formal dargestellt werden A = { 2,3,5,7,...}
 
-- ein Objekt a ist ein Element einer Menge A  --> ![ein Obj a ist Element einer Menge A] (https://latex.codecogs.com/gif.latex?a%20%5Cin%20A)
+- ein Objekt a ist ein Element einer Menge A  --> 
+- ![ein Obj a ist Element einer Menge A](https://latex.codecogs.com/gif.latex?a%20%5Cin%20A)
 
