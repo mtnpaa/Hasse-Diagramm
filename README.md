@@ -33,8 +33,8 @@ Was sind  endliche halbgeordnete Mengen?
   - irreflexiv --> <, >, ungleich, echte Teilmengenbeziehungen C
   - symetrisch
   - asymetrisch
-  - transitiv
-- *Dann ist ~ eine Halbordnung, wenn gilt Reflexivität, Antisymetrie und Transitivität*
+  - transitiv -->  x < y {\displaystyle x<y} x<y und y < z {\displaystyle y<z} y<z folgt x < z {\displaystyle x<z} x<z.
+- **Dann ist ~ eine Halbordnung, wenn gilt Reflexivität, Antisymetrie und Transitivität**
 - Halbordnung (partialordnung) der Unterschied zu Totalen Ordnung ist. Die Totalität ist abgeschwächt. Jedes Element steht zu sich selbst in Relation (Reflexivität)
   - Reflexivität (Für alle Elemente einer Menge gilt, dass diese Elemente zu sich selbst in Beziehung stehen x~x)
   - Antisymeterie
