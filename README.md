@@ -19,12 +19,16 @@ Diese Halbordnung soll intensional angegeben werden (durch eine Formel), nicht e
 -------------------------------------------------------------------------------------------------
 
 Ein Hasse-Diagramm ist in der Mathematik eine graphische Darstellung für endliche halbgeordnete Mengen.
+
 Was sind  endliche halbgeordnete Mengen?
+_________________________________________________________________________________________________
 - Menge "eine Zusammenfassung von bestimmten wohlunterschiedenen Objekten/Elementen, zu einem Ganzen" (frei nach G.Cantor)
 - Mengen werden  durch Auflistung ihrer Elemente in geschweiften Klammern dargestellt.
 -  --> Die Menge A = {2,3,5,7}
 -  Reihenfolge der Elemente ist egal, auch mehrfachnennung ist erlaubt
 -   Unendlichen Zahlenmengen können so formal dargestellt werden A = { 2,3,5,7,...}
+-   Elemente werden für ihre Menge mit kleinen Buchstaben beschrieben
+-   **a ist  Element von Menge A**
 
 - ein Objekt a ist ein Element einer Menge A  --> 
 - ![ein Obj a ist Element einer Menge A](https://latex.codecogs.com/gif.latex?a%20%5Cin%20A)
@@ -36,8 +40,19 @@ Was sind  endliche halbgeordnete Mengen?
 "Die Menge hat Eigenschaften, welche mit P beschrieben werden können."
 
 ### am besten in Kreisen denken
-Eine Menge A ist Teilmenge(Untermenge) einer Menge B
+Eine Menge A ist **Teilmenge(Untermenge)** einer Menge B, wird so ausgedrückt
 ![A ist Teilmenge von B](https://latex.codecogs.com/gif.latex?A%5Csubseteq%20B)
+
+Wenn A Teilmenge von B ist und B ist Teilmenge von A, dann ist A=B
+
+- Zwei Mengen sind **disjunkt**, wenn sie keine gemeinsamen Elemente haben
+
+- Die **Vereinigung** von A und B ![AUB](https://latex.codecogs.com/gif.latex?A%5Ccup%20B) besteht aus allen Elementen von A und B
+
+
+
+
+
 
 
 
