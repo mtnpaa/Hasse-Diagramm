@@ -22,16 +22,19 @@ Ein Hasse-Diagramm ist in der Mathematik eine graphische Darstellung für endlic
 
 Was sind  endliche halbgeordnete Mengen?
 - endlich --> ist beschränkt
+ - N= {1,2,3,...} ist die Menge der natürlichen Zahlen, diese Menge ist unenedlich {1,2,4,...}
+ - A = {0,1,2,3 ...5} -> diese Menge ist endlich, weil sie eingeschränkt auf 0 und 5 ist
+ - Warum ist in der Aufgabenstellung im Universum N der natürlichen Zahlen und dieser eingeschränkt  bei 0?
+- ???
+- Ordnung "kleiner gleich", "größer gleich" --> Ordnungsrelationen
+- M ist eine Menge mit Relationen ~ 
+- Dann ist ~ eine Halbordnung, wenn gilt Reflexivität, Antisymetrie und Transitivität)
 - Halbordnung (partialordnung) der Unterschied zu Totalen Ordnung ist. Die Totalität ist abgeschwächt. Jedes Element steht zu sich selbst in Relation (Reflexivität)
-  - Reflexivität
+  - Reflexivität (Für alle Elemente meiner Menge gilt, dass diese Elemente zu sich selbst in Beziehung stehen x~x)
   - Antisymeterie
-  - Transitivität
+  - Transitivität (Wenn ein Element(x) in Relation zu einem Anderen(y) steht und dieses Andere Element in Relation zu einem Weitern Element steht(z) x~y , y~z --> x~z
 
-N= {1,2,3,...} ist die Menge der natürlichen Zahlen, diese Menge ist unenedlich {1,2,4,...}
-A = {0,1,2,3 ...5} -> diese Menge ist endlich, weil sie eingeschränkt auf 0 und 5 ist
-
-Warum ist in der Aufgabenstellung im Universum N der natürlichen Zahlen und dieser eingeschränkt  bei 0?
-- ???_________________________________________________________________________________________________
+________________________________________________________________________________________
 - Menge "eine Zusammenfassung von bestimmten wohlunterschiedenen Objekten/Elementen, zu einem Ganzen" (frei nach G.Cantor)
 - Mengen werden  durch Auflistung ihrer Elemente in geschweiften Klammern dargestellt.
 -  --> Die Menge A = {2,3,5,7}
