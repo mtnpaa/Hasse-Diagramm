@@ -29,3 +29,22 @@ Was sind  endliche halbgeordnete Mengen?
 - ein Objekt a ist ein Element einer Menge A  --> 
 - ![ein Obj a ist Element einer Menge A](https://latex.codecogs.com/gif.latex?a%20%5Cin%20A)
 
+
+- gebräuchliche Darstellungsform beruht auf dem Abstraktionsprinzip, nach dem man Mengen durch  wohlbestimmten Eigenschaften definiert. (Cantorschen Definition)
+- Dafür werden Prädikate P für einen Individuenbereich festgelegt x --> P(x)
+
+"Die Menge hat Eigenschaften, welche mit P beschrieben werden können."
+
+### am besten in Kreisen denken
+Eine Menge A ist Teilmenge(Untermenge) einer Menge B
+![A ist Teilmenge von B](https://latex.codecogs.com/gif.latex?A%5Csubseteq%20B)
+
+
+
+
+
+
+Dann wird mit {x | P(x)} oder (wenn der Bereich B explizit genannt werden soll) mit
+{x ∈ B | P(x)} die Menge bezeichnet, die sich aus allen Individuen aus dem Bereich
+zusammensetzt, für die P(x) wahr ist.
+
