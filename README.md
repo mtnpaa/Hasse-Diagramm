@@ -1,5 +1,5 @@
 # Hasse-Diagramm
-
+https://user.phil.hhu.de/~petersen/WiSe1213_mathGrundl/Petersen_math_grundl_handout.pdf
 Zeichnen Sie jeweils das Hasse-Diagramm dieser Teilbarkeitsrelation
 
  - für (N,+,0), eingeschränkt auf {0,1,…,4}
