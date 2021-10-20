@@ -21,7 +21,17 @@ Diese Halbordnung soll intensional angegeben werden (durch eine Formel), nicht e
 Ein Hasse-Diagramm ist in der Mathematik eine graphische Darstellung für endliche halbgeordnete Mengen.
 
 Was sind  endliche halbgeordnete Mengen?
-_________________________________________________________________________________________________
+- endlich --> ist beschränkt
+- Halbordnung (partialordnung) der Unterschied zu Totalen Ordnung ist. Die Totalität ist abgeschwächt. Jedes Element steht zu sich selbst in Relation (Reflexivität)
+  - Reflexivität
+  - Antisymeterie
+  - Transitivität
+
+N= {1,2,3,...} ist die Menge der natürlichen Zahlen, diese Menge ist unenedlich {1,2,4,...}
+A = {0,1,2,3 ...5} -> diese Menge ist endlich, weil sie eingeschränkt auf 0 und 5 ist
+
+Warum ist in der Aufgabenstellung im Universum N der natürlichen Zahlen und dieser eingeschränkt  bei 0?
+- ???_________________________________________________________________________________________________
 - Menge "eine Zusammenfassung von bestimmten wohlunterschiedenen Objekten/Elementen, zu einem Ganzen" (frei nach G.Cantor)
 - Mengen werden  durch Auflistung ihrer Elemente in geschweiften Klammern dargestellt.
 -  --> Die Menge A = {2,3,5,7}
