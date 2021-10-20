@@ -27,10 +27,16 @@ Was sind  endliche halbgeordnete Mengen?
  - Warum ist in der Aufgabenstellung im Universum N der natürlichen Zahlen und dieser eingeschränkt  bei 0?
 - ???
 - Ordnung "kleiner gleich", "größer gleich" --> Ordnungsrelationen
-- M ist eine Menge mit Relationen ~ 
+- **M ist eine Menge mit Relationen ~ ** oder anders gesagt: eine Menge mit einer Relation
+- **Relationen haben Eigenschaften**
+  - reflexiv --> =, <=, >=, + Teilmengenbeziehungn C=
+  - irreflexiv --> <, >, ungleich, echte Teilmengenbeziehungen C
+  - symetrisch
+  - asymetrisch
+  - transitiv
 - Dann ist ~ eine Halbordnung, wenn gilt Reflexivität, Antisymetrie und Transitivität)
 - Halbordnung (partialordnung) der Unterschied zu Totalen Ordnung ist. Die Totalität ist abgeschwächt. Jedes Element steht zu sich selbst in Relation (Reflexivität)
-  - Reflexivität (Für alle Elemente meiner Menge gilt, dass diese Elemente zu sich selbst in Beziehung stehen x~x)
+  - Reflexivität (Für alle Elemente einer Menge gilt, dass diese Elemente zu sich selbst in Beziehung stehen x~x)
   - Antisymeterie
   - Transitivität (Wenn ein Element(x) in Relation zu einem Anderen(y) steht und dieses Andere Element in Relation zu einem Weitern Element steht(z) x~y , y~z --> x~z
 
