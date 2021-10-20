@@ -37,9 +37,13 @@ ________________________________________________________________________________
 - gebräuchliche Darstellungsform beruht auf dem Abstraktionsprinzip, nach dem man Mengen durch  wohlbestimmten Eigenschaften definiert. (Cantorschen Definition)
 - Dafür werden Prädikate P für einen Individuenbereich festgelegt x --> P(x)
 
-"Die Menge hat Eigenschaften, welche mit P beschrieben werden können."
+*"Die Menge hat Eigenschaften, welche mit P beschrieben werden können."*
 
-### am besten in Kreisen denken
+Dann wird mit {x | P(x)} oder (wenn der Bereich B explizit genannt werden soll) mit
+{x ∈ B | P(x)} die Menge bezeichnet, die sich aus allen Individuen aus dem Bereich
+zusammensetzt, für die P(x) wahr ist.
+
+*am besten in Kreisen denken*
 Eine Menge A ist **Teilmenge(Untermenge)** einer Menge B, wird so ausgedrückt
 ![A ist Teilmenge von B](https://latex.codecogs.com/gif.latex?A%5Csubseteq%20B)
 
@@ -51,7 +55,26 @@ Eine Menge A ist **Teilmenge(Untermenge)** einer Menge B, wird so ausgedrückt
 
 - **Durchschnitt** ![AOB](https://latex.codecogs.com/gif.latex?A%5Ccap%20B), ist die Menge wo alle Elemente in A un bV sind
 
-- **Differenz** ![A\B](https://latex.codecogs.com/gif.latex?A%20%5Csetminus%20B)
+- **Differenz** ![A\B](https://latex.codecogs.com/gif.latex?A%20%5Csetminus%20B), Ergbenis ist eine Menge aus Elementen, die aus A besteht, aber nicht aus Elementen die ebenfalls in B enthalten sind
+z.B A = {3,4,5} und B={4,5} dann A\B = {3}
+
+Eine Menge die kein Element enthält nennt man leere Menge A = {}
+Der betrachtet Individuenbereich wird festgelgt, diesen Bereich nennt man Universum.
+Ein Universum kann natürlich auch Teilmengen haben.
+
+Identitäten
+ - Kommutativtät
+ - Assoziativtät
+ - Distributivität
+ - Idempotenz
+ - Dominanz
+ - Identität
+ - Absorbtion
+ - De Morgan'sche Regel
+ - Komplementierung
+
+
+http://www.inf.fu-berlin.de/lehre/WS08/mafi1/skript2.pdf
 
 
 
@@ -62,7 +85,4 @@ Eine Menge A ist **Teilmenge(Untermenge)** einer Menge B, wird so ausgedrückt
 
 
 
-Dann wird mit {x | P(x)} oder (wenn der Bereich B explizit genannt werden soll) mit
-{x ∈ B | P(x)} die Menge bezeichnet, die sich aus allen Individuen aus dem Bereich
-zusammensetzt, für die P(x) wahr ist.
 
