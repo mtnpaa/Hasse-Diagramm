@@ -152,11 +152,23 @@ G := Menge von der Gruppe
 
 **Legende der mathematischen Symbole**
 
-- ![forall](https://latex.codecogs.com/gif.latex?%5Cforall) -- für alle
-- ![circ](https://latex.codecogs.com/gif.latex?%5Ccirc) -- Verknüpfung der Elemente a ![/circ] b
+- ![forall](https://latex.codecogs.com/gif.latex?%5Cforall),![bigwedge](https://latex.codecogs.com/gif.latex?%5Cbigwedge) -- **für alle** -- für alle Elemente 
+- ![circ](https://latex.codecogs.com/gif.latex?%5Ccirc) -- **Verknüpfung der Elemente** a![circ](https://latex.codecogs.com/gif.latex?%5Ccirc)b --
+- | **für die gilt** -- die die Bedingung erfüllen --{a | T(a)}--Elemente a die die Bedingung T(a) erfüllen
 
 
 
 
+**Algebra**
+- das lösen von Gleichungen, Kern der Algebra ist es die Gleichungssysteme zu untersuchen, nach ihren unterschieden
+- 2x+1 |2 --> x=1/2...aber er hat in realen Zahlen gerechnet
+- dieses Gleichungssystem ist nicht llösbar, wenn ich nur ganze Zahlen zulasse (Rahmen)
+- also wird nun, neben der Gleichung auch ein **Rahmen** festgelegt, welche Lösungen zugelassen werden
 
+Gruppe, Körper, Ring, Vektor, Modul
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+- 
 
