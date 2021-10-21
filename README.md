@@ -179,5 +179,19 @@ G := Menge von der Gruppe
 - -vom Körper zum Vektor--> die Idee vom eindimensionalen Raum zum Mehrdimensionalen Raum, es gibnt immer ein Körper der zugrundegelgt wird und dann ist es einfach nur die Kopie
 
 
-
+## 3 Rechengesetzte
+**1. Kommutativgesetz (Vertauschungsgesetz)**
+a + b = b + a
+a * b = b * a
+**2.Assoziativsgesetz(Verknüpfungsgesetz)**
+a+(b+c) = (a+b)+c
+2+(1+3) = (2+1)+3
+a*(b*c) = (a*b)*c
+2*(1*3) = (2*1)*3 --> 6 = 6 Erst klammer aus multiplizieren
+Bei der der Addition und Multiplikation ist es egal in welcher Reihenfolge wir berechen, auch mit klammern.Ergebnis ist immer gleich
+bei minus und plus gilt nicht das Assoziativsgesetz
+**3. Distributivgesetz (Verteilungsgesetz)**
+a *(b+c) = ab + ac
+2*(a+b) = 2a + 2b
+2*(1+3) = 2+6 =8
 
