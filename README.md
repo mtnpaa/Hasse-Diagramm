@@ -25,7 +25,7 @@ Was sind  endliche halbgeordnete Mengen?
  - N= {1,2,3,...} ist die Menge der natürlichen Zahlen, diese Menge ist unenedlich {1,2,4,...}
  - A = {0,1,2,3 ...5} -> diese Menge ist endlich, weil sie eingeschränkt auf 0 und 5 ist
  - Warum ist in der Aufgabenstellung im Universum N der natürlichen Zahlen und dieser eingeschränkt  bei 0?
-- ???
+- weil man die 0 dazu nehemen kann, dann wäre es das neutrale Element
 - Ordnung "kleiner gleich", "größer gleich" --> Ordnungsrelationen
 - **M ist eine Menge mit Relationen ~ ** oder anders gesagt: eine Menge mit einer Relation
 - **Relationen haben Eigenschaften**
@@ -95,10 +95,65 @@ Identitäten
 
 http://www.inf.fu-berlin.de/lehre/WS08/mafi1/skript2.pdf
 
+---------------------------------------------------------------------------------------------------------------------------------------
+
+**Monoid**
+- ist eine Halbgruppe mit einem neutralen Element
+
+1. Untersuchung auf Abgeschlossenheit
+2. Untersuchung auf Assozität
+3. Untersuchung nach ein neutrales Element
+4. Untersuchung nach Inversen
+5. Untersuchung nach Kommuntativität
+
+- wenn gilt 1, 2, 3, 4, 5, dann Abelsche Gruppe
+-1, 2, 3, 4 --> Gruppe
+- 1, 2, 3 --> Monoid
+- 1,2 --> Halbgruppe
+
+
+
+(N0, +)
+(sprich: wenn man die Natürlichen Zahlen nimmt mit der 0 in  der Verknüpfung mit der Addition)
+dann untersuchen wir diese
+nach 
+- Abgeschlossenheit (verknüpfung von a o b --> a o b --> 2+o=6) o ist bei uns die Addition , 6 ist Element der natürlichen Zahlen -->es gilt die abgeschlossenheit 
+- Assozität ??
+- neutrales Element = 0 denn alles in der Addition was ich plus 0 nehme ändert nichts.
+- - ein Inverses gibt es nicht ?? (weil Natürliche Zahlen)
 
 
 
 
+Ja. (N_0, +, 0) ist ein Monoid und kommutativ. Dafür gibt es aber keinen besonderen Namen, außer vielleicht abelscher Monoid oder sowas.
+
+
+
+**Algebraische Strukturen/Elementares  Rechnen**
+
+- Mengen,            Rechenoperationen                Gruppe/Ring/Körper
+- Z={0,-1,1,-2,2..}          +                     Gruppe=  Ist eine Menge und eine Rechenoperation in Verknüpfung  G (Z, 0)                     
+
+................
+
+
+Gruppen sind Mengen mit Verknüpfungen
+
+
+**Gruppenaxiome**
+o := Platzhalter für Verknüpfungen
+G := Menge von der Gruppe
+
+- Asoziativität
+- Neutrales Element
+- Inverses Element
+
+
+
+**Legende der mathematischen Symbole**
+
+- ![forall](https://latex.codecogs.com/gif.latex?%5Cforall) -- für alle
+- 
 
 
 
