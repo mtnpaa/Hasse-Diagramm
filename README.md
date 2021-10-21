@@ -153,7 +153,7 @@ G := Menge von der Gruppe
 **Legende der mathematischen Symbole**
 
 - ![forall](https://latex.codecogs.com/gif.latex?%5Cforall) -- für alle
-- \circ
+- ![circ](https://latex.codecogs.com/gif.latex?%5Ccirc) -- Verknüpfung der Elemente a ![/circ] b
 
 
 
