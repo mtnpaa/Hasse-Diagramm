@@ -172,3 +172,8 @@ Gruppe, Körper, Ring, Vektor, Modul
 | git diff | Show file differences that haven't been staged |
 - 
 
+|/|Gruppe|Körper|Ring|Vektor|Modul|
+| --- | --- | --- | --- | --- | --- |
+|Bsp.|g|k|r|v|m|
+|Rechnen mit|g|k|r|v|m|
+|Intuition|g|k|r|v|m|
