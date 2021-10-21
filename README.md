@@ -165,15 +165,19 @@ G := Menge von der Gruppe
 - dieses Gleichungssystem ist nicht llösbar, wenn ich nur ganze Zahlen zulasse (Rahmen)
 - also wird nun, neben der Gleichung auch ein **Rahmen** festgelegt, welche Lösungen zugelassen werden
 
-Gruppe, Körper, Ring, Vektor, Modul
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-- 
 
 |/|Gruppe|Körper|Ring|Vektor|Modul|
 | --- | --- | --- | --- | --- | --- |
-|Bsp.|g|k|r|v|m|
-|Rechnen mit|g|k|r|v|m|
-|Intuition|g|k|r|v|m|
+|Bsp.|(M, mal), (Z,+)|Q,RC,F2, K(x)|Z, Z mod|Q^n,R^n,C^n,F^n|Z^n...|
+|Rechnen mit| besteht aus einer Verknüpfung +,*/-.|+, -, *, /|+,-,*|+,- (Strecken und Strauchen ist die Multiplikation)|+ - (Stauchen)|
+|Intuition|1 Operationund eine Umkerhung davon |4 Operation, Rechnen in R, wie in der Schule|3 Operationen wie in Z|Kopie n Körper|n Dimensionaler Ring|
+
+-Unterschied Körper Ring, im Ring darf ich nicht alles teilen, wenn es ganze Zahlen sind
+-es gibt eigentlich nur zwei Rechenarten das + und das *,die anderen sind nur umkehroperation
+- in der Gruppe ist es die Idee, eine Operation+*-/ genau abzubilden
+- ein Körper besteht aus zwei Gruppen
+- -vom Körper zum Vektor--> die Idee vom eindimensionalen Raum zum Mehrdimensionalen Raum, es gibnt immer ein Körper der zugrundegelgt wird und dann ist es einfach nur die Kopie
+
+
+
+
